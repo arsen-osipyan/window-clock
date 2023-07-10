@@ -1,0 +1,3 @@
+/home/arsssss/Desktop/wise-tech/WindowClock/CMakeFiles/rebuild_cache.dir
+/home/arsssss/Desktop/wise-tech/WindowClock/CMakeFiles/edit_cache.dir
+/home/arsssss/Desktop/wise-tech/WindowClock/CMakeFiles/WindowClock.dir

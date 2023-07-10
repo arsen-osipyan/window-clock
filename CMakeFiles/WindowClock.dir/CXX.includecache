@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/arsssss/Desktop/wise-tech/WindowClock/clock.cpp
+clock.h
+/home/arsssss/Desktop/wise-tech/WindowClock/clock.h
+
+/home/arsssss/Desktop/wise-tech/WindowClock/clock.h
+SDL2/SDL.h
+-
+GL/gl.h
+-
+chrono
+-
+stdexcept
+-
+cmath
+-
+
+/home/arsssss/Desktop/wise-tech/WindowClock/clock_app.cpp
+clock_app.h
+/home/arsssss/Desktop/wise-tech/WindowClock/clock_app.h
+
+/home/arsssss/Desktop/wise-tech/WindowClock/clock_app.h
+clock.h
+/home/arsssss/Desktop/wise-tech/WindowClock/clock.h
+SDL2/SDL.h
+-
+GL/gl.h
+-
+vector
+-
+stdexcept
+-
+
+/home/arsssss/Desktop/wise-tech/WindowClock/main.cpp
+clock_app.h
+/home/arsssss/Desktop/wise-tech/WindowClock/clock_app.h
+clock.h
+/home/arsssss/Desktop/wise-tech/WindowClock/clock.h
+

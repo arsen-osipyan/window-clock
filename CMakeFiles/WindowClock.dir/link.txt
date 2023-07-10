@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/WindowClock.dir/main.cpp.o CMakeFiles/WindowClock.dir/clock.cpp.o CMakeFiles/WindowClock.dir/clock_app.cpp.o  -o WindowClock  -lSDL2 -lGL 
